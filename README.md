@@ -8,6 +8,7 @@ This project is a lightweight digital clock built with standard web technologies
 
 ## Features
 
+
 - **Live Time Display:** Shows current hours, minutes, and seconds, updating continuously.
 - **Minimalist Design:** Clean and readable interface with custom styling using CSS.
 - **Responsive Layout:** Works across devices due to simple, adaptable HTML/CSS structure.
@@ -15,6 +16,8 @@ This project is a lightweight digital clock built with standard web technologies
 ## Screenshots
 
 ![Digital Clock Screenshot](1.jpeg)
+<img width="1359" height="482" alt="Screenshot From 2026-03-06 15-16-02" src="https://github.com/user-attachments/assets/a18a936d-beeb-4ee0-af0b-1db2af3cf0fb" />
+
 
 ## Getting Started
 

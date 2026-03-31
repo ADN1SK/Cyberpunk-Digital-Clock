@@ -19,4 +19,5 @@ function updateclock() {
 setInterval(updateclock, 1000);
 
 // Initial call to display the clock immediately
+
 updateclock();
